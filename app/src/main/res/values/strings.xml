@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Presentation</string>
+    <string name="floating_button_description">Adds User To RecyclerView</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="save">Save</string>
+    <string name="first_name_empty">First Name can not be empty</string>
+    <string name="last_name_empty">Last Name can not be empty</string>
+    <string name="email_empty">Email can not be empty</string>
+    <string name="gender_empty">Gender can not be empty</string>
+</resources>
